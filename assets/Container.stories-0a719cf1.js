@@ -1,0 +1,8 @@
+import{j as n,a as h}from"./vanilla-extract-dynamic.esm-f1ae3083.js";var u="_1nlwmq62",x="var(--_1nlwmq60)",_="var(--_1nlwmq61)";const a=e=>{const{maxWidth:o="",minWidth:d="",children:l,className:m,style:c,...p}=e;return n.jsx("div",{className:`${m} ${u}`,style:{...c,...h({[x]:o,[_]:d})},...p,children:l})};try{a.displayName="Container",a.__docgenInfo={description:"",displayName:"Container",props:{minWidth:{defaultValue:null,description:"",name:"minWidth",required:!1,type:{name:"string"}},maxWidth:{defaultValue:null,description:"",name:"maxWidth",required:!1,type:{name:"string"}}}}}catch{}const y={component:a,argTypes:{minWidth:{description:"Container의 최소 너비(min-width)",defaultValue:{summary:"''"}},maxWidth:{description:"Container의 최대 너비(max-width)",defaultValue:{summary:"''"}}},args:{minWidth:"min-content",maxWidth:"max-content"},decorators:[e=>n.jsx("div",{style:{width:"100%",height:"100%",border:"1px solid gray"},children:n.jsx(e,{})})]},r={render:e=>n.jsx(a,{style:{border:"2px solid hotpink"},...e,children:n.jsx("span",{children:"안녕하세요?"})})};var t,i,s;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  render: args => <Container style={{
+    border: '2px solid hotpink'
+  }} {...args}>\r
+      <span>안녕하세요?</span>\r
+    </Container>
+}`,...(s=(i=r.parameters)==null?void 0:i.docs)==null?void 0:s.source}}};const g=["Example"],f=Object.freeze(Object.defineProperty({__proto__:null,Example:r,__namedExportsOrder:g,default:y},Symbol.toStringTag,{value:"Module"}));export{f as C,r as E};
+//# sourceMappingURL=Container.stories-0a719cf1.js.map
