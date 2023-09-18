@@ -1,4 +1,4 @@
-import{j as n}from"./vanilla-extract-dynamic.esm-f1ae3083.js";import{M as d,C as c,b as t}from"./index-baef8b65.js";import{G as l,E as i}from"./Grid.stories-96783374.js";import{u as o}from"./index-dc1d5b46.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-8e4d7cb0.js";import"../sb-preview/runtime.js";import"./index-25c5ea02.js";import"./index-d37d4223.js";import"./index-356e4a49.js";function e(s){const r=Object.assign({h1:"h1",h2:"h2",p:"p",ul:"ul",li:"li",h3:"h3",code:"code"},o(),s.components);return n.jsxs(n.Fragment,{children:[n.jsx(d,{of:l}),`
+import{j as n}from"./vanilla-extract-dynamic.esm-f1ae3083.js";import{M as d,C as c,b as t}from"./index-72b19d40.js";import{G as l,E as i}from"./Grid.stories-5afc05c8.js";import{u as o}from"./index-dc1d5b46.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-8885303d.js";import"../sb-preview/runtime.js";import"./index-25c5ea02.js";import"./index-d37d4223.js";import"./index-356e4a49.js";function e(s){const r=Object.assign({h1:"h1",h2:"h2",p:"p",ul:"ul",li:"li",h3:"h3",code:"code"},o(),s.components);return n.jsxs(n.Fragment,{children:[n.jsx(d,{of:l}),`
 `,n.jsx(r.h1,{id:"grid",children:"Grid"}),`
 `,n.jsx(r.h2,{id:"기능",children:"기능"}),`
 `,n.jsx(r.p,{children:"Grid는 자식 컴포넌트들을 격자 형태로 배치합니다."}),`
@@ -21,4 +21,4 @@ import{j as n}from"./vanilla-extract-dynamic.esm-f1ae3083.js";import{M as d,C as
 `]}),`
 `,n.jsxs(r.p,{children:["추가적으로 ",n.jsx(r.code,{children:"<div>"})," 태그에 들어갈 수 있는 모든 속성들 역시 prop으로 내려줄 수 있어요."]}),`
 `,n.jsx(t,{of:i})]})}function M(s={}){const{wrapper:r}=Object.assign({},o(),s.components);return r?n.jsx(r,Object.assign({},s,{children:n.jsx(e,s)})):e(s)}export{M as default};
-//# sourceMappingURL=Grid-4b337074.js.map
+//# sourceMappingURL=Grid-9cc91ae7.js.map
