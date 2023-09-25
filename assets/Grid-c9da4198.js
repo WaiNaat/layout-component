@@ -1,4 +1,4 @@
-import{j as n}from"./toPixelIfNumber-5a232288.js";import{M as o,C as c,b as l}from"./index-40e5de8a.js";import{G as t,E as e}from"./Grid.stories-07461f81.js";import{u as d}from"./index-dc1d5b46.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-4b76266a.js";import"../sb-preview/runtime.js";import"./index-25c5ea02.js";import"./index-d37d4223.js";import"./index-356e4a49.js";function i(r){const s=Object.assign({h1:"h1",h2:"h2",p:"p",ul:"ul",li:"li",h3:"h3",code:"code"},d(),r.components);return n.jsxs(n.Fragment,{children:[n.jsx(o,{of:t}),`
+import{j as n}from"./toPixelIfNumber-5a232288.js";import{M as o,C as c,b as l}from"./index-e3968b14.js";import{G as t,E as e}from"./Grid.stories-ff581f70.js";import{u as d}from"./index-dc1d5b46.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./iframe-77c0948c.js";import"../sb-preview/runtime.js";import"./index-25c5ea02.js";import"./index-d37d4223.js";import"./index-356e4a49.js";function i(r){const s=Object.assign({h1:"h1",h2:"h2",p:"p",ul:"ul",li:"li",h3:"h3",code:"code"},d(),r.components);return n.jsxs(n.Fragment,{children:[n.jsx(o,{of:t}),`
 `,n.jsx(s.h1,{id:"grid",children:"Grid"}),`
 `,n.jsx(s.h2,{id:"기능",children:"기능"}),`
 `,n.jsx(s.p,{children:"Grid는 자식 컴포넌트들을 격자 형태로 배치합니다."}),`
@@ -23,4 +23,4 @@ import{j as n}from"./toPixelIfNumber-5a232288.js";import{M as o,C as c,b as l}fr
 `,n.jsxs(s.p,{children:[n.jsx(s.code,{children:"<div>"}),`태그에 들어갈 수 있는 속성들,\r
 또는 `,n.jsx(s.code,{children:"as"})," prop을 써서 태그를 정했을 경우 해당 태그에 들어갈 수 있는 모든 속성들을 prop으로 내려줄 수 있어요."]}),`
 `,n.jsx(l,{of:e})]})}function G(r={}){const{wrapper:s}=Object.assign({},d(),r.components);return s?n.jsx(s,Object.assign({},r,{children:n.jsx(i,r)})):i(r)}export{G as default};
-//# sourceMappingURL=Grid-7de5e705.js.map
+//# sourceMappingURL=Grid-c9da4198.js.map
